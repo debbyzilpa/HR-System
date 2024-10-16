@@ -1,0 +1,15 @@
+.card {
+    border-radius: 10px; /* Menambahkan radius untuk kartu */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Menambahkan bayangan pada kartu */
+}
+
+.card-body h5 {
+    font-size: 1.2rem; /* Mengatur ukuran font untuk judul kartu */
+}
+
+.btn-block {
+    margin-top: 20px; /* Memberi jarak pada tombol */
+    padding: 15px;
+    font-size: 1rem; /* Mengatur ukuran font tombol */
+}
+
